@@ -8,7 +8,8 @@ body {
 }
 
 header {
-  background-color: #4CAF50;
+  text-align: left;
+  background-color: #0B192C;
   color: white;
   padding: 30px;
 }
@@ -81,7 +82,7 @@ footer {
 .cta-button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #4CAF50;
+  background-color: #f7e699;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -89,6 +90,6 @@ footer {
 }
 
 .cta-button:hover {
-  background-color: #45a049;
+  background-color: #0B192C;
 }
 
