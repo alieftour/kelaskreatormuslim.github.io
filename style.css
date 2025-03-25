@@ -54,6 +54,15 @@ footer {
   overflow: hidden;
   transition: transform 0.3s ease;
 }
+.cards {
+  background-color: #fff;
+  width: 300px;
+  margin: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
 
 .card:hover {
   transform: translateY(-10px);
